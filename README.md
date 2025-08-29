@@ -13,6 +13,6 @@ well as bring ideas to life.
 
       https://niaholmes.github.io/final/
 
-3. In a course where I learned how to ethically use AI within UX, I refferred to a design breif from Atomic Object, located in Ann Arbor, in order to design wireframes in Figma for an app meant for VIP members who attend Detroit Tigers baseball games.
+3. In a course where I learned how to ethically use AI within UX, I refferred to a design brief from Atomic Object, located in Ann Arbor, in order to design wireframes in Figma for an app meant for VIP members who attend Detroit Tigers baseball games.
 
       https://www.figma.com/design/CbHdqVLMIdfWncDQoH2W5y/Assignment-6---Page-3?node-id=2062-2&t=CiHBdDQak96tS3Om-1
