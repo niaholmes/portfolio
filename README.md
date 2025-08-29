@@ -1,8 +1,6 @@
 # Hello, my name is Nia Holmes.
 
-I am a student at the University of Michigan studying User Experience (UX) Design.
-
-With my curious and creative mind, I am always trying to learn and understand new things, as
+I am a student at the University of Michigan studying User Experience (UX) Design. With my curious and creative mind, I am always trying to learn and understand new things, as
 well as bring ideas to life.
 
 # My Projects
