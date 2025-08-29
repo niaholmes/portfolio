@@ -9,7 +9,7 @@ well as bring ideas to life.
 
       https://niaholmes.github.io/client_project_w25/index.html
 
-2. In that same course, for my final project, I created a website for individuals who like having access to the most relevernt information about TV shows and movies before taking the time to watch it.
+2. In that same course, for my final project, I created a website for individuals who like having access to the most relevant information about TV shows and movies before taking the time to watch it.
 
       https://niaholmes.github.io/final/
 
