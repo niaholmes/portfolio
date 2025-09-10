@@ -12,7 +12,15 @@ well as bring ideas to life.
 2. In that same course, for my final project, I created a website for individuals who like having access to the most relevant information about TV shows and movies before taking the time to watch it.
 
       https://niaholmes.github.io/final/
-
-3. In a course where I learned how to ethically use AI within UX, I refferred to a design brief from Atomic Object, located in Ann Arbor, in order to design wireframes in Figma for an app meant for VIP members who attend Detroit Tigers baseball games.
+   
+4. In a course where I learned how to ethically use AI within UX, I refferred to a design brief from Atomic Object, located in Ann Arbor, in order to design wireframes in Figma for an app meant for VIP members who attend Detroit Tigers baseball games.
 
       https://www.figma.com/design/CbHdqVLMIdfWncDQoH2W5y/Assignment-6---Page-3?node-id=2062-2&t=CiHBdDQak96tS3Om-1
+
+5. In my introduction to UX design course, I was tasked with designing a small, focused feature that adds functionality to Reddit. I did research on their company goals and values and decided to create a feature that allows users to set goals for achievement badges and track their progress for it.
+
+      https://www.figma.com/design/EJVr980jT2oKtaJBc1HYJh/307-Lab---Nia-Holmes?node-id=21-2&t=lZWvM1chMGmcjk2c-1
+
+6. For a personal project, I created a website that introduces people to Fan Edits and the mobile editing application Video Star. I inlcude tips and tricks on how to get started and create a Fan account on social media. I decided to do this becuase it is something I would've loved to have access to when I first started my fan editing journey.
+
+      https://niaholmes30.github.io/videostar/index.html
